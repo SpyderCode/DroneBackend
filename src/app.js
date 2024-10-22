@@ -20,7 +20,7 @@ app.use(cors({
     'http://localhost',
     'http://127.0.0.1/productos',
     'http://127.0.0.1:5173',
-    'https://frontend-escm.onrender.com'
+    'https://dronefrontend.onrender.com'
     ],
     credentials: true
 }));
